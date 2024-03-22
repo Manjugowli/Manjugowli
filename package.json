@@ -1,0 +1,19 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "practice namste react ",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manjugowli/React-Practice.git"
+  },
+  "author": "ManjuGowli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manjugowli/React-Practice/issues"
+  },
+  "homepage": "https://github.com/Manjugowli/React-Practice#readme"
+}
