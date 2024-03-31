@@ -1,0 +1,5 @@
+npm-npx-parcle package ----> ~ and ^ in version
+
+node_modules- react is imported 
+
+dist - dev and prod point to this dist file from "Parcel-cache"
