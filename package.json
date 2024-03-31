@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Manjugowli/React-Practice/issues"
   },
-  "homepage": "https://github.com/Manjugowli/React-Practice#readme"
+  "homepage": "https://github.com/Manjugowli/React-Practice#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
 }
